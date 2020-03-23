@@ -1,0 +1,13 @@
+.idea/
+.gradle/
+
+.DS_Store
+
+target/
+out/
+build/
+application-custom.yml
+application-local.yml
+*private.resources
+*private.properties
+*.iml
